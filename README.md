@@ -1,6 +1,8 @@
 # cyberlab (on premise)
 
+auto dev + powershell script (virtualbox / vagrant)
 
+## mongodb database
 
 ## Cyberchef
 
@@ -8,4 +10,7 @@
 
 ## Selenium scan
 
+## orange cyberdefense manager
+
+## nginx reverse proxy
 
